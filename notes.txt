@@ -1,0 +1,10 @@
+Use Alpine.js to pull different language text from variables instead of using DOM.
+Toggle between templates
+
+Template 1 - Andrés Obón, Web Dev, image, button to Template 2
+
+Template 2 - About me, content, back to Template 1, go to Template 3
+
+Template 3 - Links
+
+Template 4 - Contact me
